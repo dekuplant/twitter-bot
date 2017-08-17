@@ -12,7 +12,7 @@ var TWITTER_ACCESS_TOKEN = '897986692128178176-xa4kq8DvoTA99JrhfDLCsCg0A9eiz8S';
 var TWITTER_ACCESS_TOKEN_SECRET = 'EUY7tPR2PSWvbKLsaMHF5IKDCYqqpmhDvgvBIHe6uEvop';
 
 /* Set Twitter search phrase */
-var TWITTER_SEARCH_PHRASE = '#MAGA, #ImpeachTrump';
+var TWITTER_SEARCH_PHRASE = '#MAGA';
 
 var Twit = require('twit');
 
