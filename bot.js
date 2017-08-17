@@ -72,9 +72,11 @@ function BotRetweet() {
 		}
 	}
 	
-	/* Set an interval of 30 minutes (in microsecondes) */
+	/* Set an interval of 30 minutes (in milliseconds) */
 	//setInterval(BotRetweet, 30*60*1000);
-	setInterval(BotRetweet, 10*60*1000);
+	//setInterval(BotRetweet, 10*60*1000);
+	setInterval(BotRetweet, 5*60*1000);
+
 }
 
 /* Initiate the Bot */
